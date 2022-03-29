@@ -1,5 +1,5 @@
 [package]
-name = "hello-actix"
+name = "actix-web-log4rs"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,5 +8,4 @@ edition = "2021"
 [dependencies]
 actix-web = "4"
 log = "0.4.0"
-env_logger = "0.8.4"
 log4rs = "1.0.0"
