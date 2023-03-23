@@ -4,10 +4,10 @@ use actix_web::middleware::Logger;
 
 use log::{
 //    debug,
-//    error, 
-    info, 
+//    error,
+    info,
 //    trace,
-//    warn, 
+//    warn,
 };
 use log4rs;
 
